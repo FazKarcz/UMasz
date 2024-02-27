@@ -1,1 +1,1 @@
-# UMasz
+Uczenie maszynowe
